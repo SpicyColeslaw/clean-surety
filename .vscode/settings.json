@@ -1,0 +1,10 @@
+{
+  "material-icon-theme.folders.associations": {
+    "application": "Src",
+    "domain": "Core",
+    "infrastructure": "Controller",
+    "persistence": "Database",
+    "entities": "Class",
+    "use-cases": "Scripts"
+  },
+}

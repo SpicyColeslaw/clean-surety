@@ -1,0 +1,11 @@
+# App Secrets
+**/.env
+**/.env.*
+!.env.example
+*.pem
+
+.idea/
+*.pem
+
+node_modules
+dist
